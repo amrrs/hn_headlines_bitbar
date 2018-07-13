@@ -1,7 +1,7 @@
 #!/usr/bin/env -S PATH="${PATH}:/usr/local/bin" python3
 
-# <bitbar.title>HN Front Page</bitbar.title>
-# <bitbar.author>AbdulMajedRaja</bitbar.author>
+# <bitbar.title>HN Headlines</bitbar.title>
+# <bitbar.author>amrrs</bitbar.author>
 # <bitbar.author.github>amrrs</bitbar.author.github>
 # <bitbar.desc>Display Top Hacker News Headlines</bitbar.desc>
 # <bitbar.dependencies>python</bitbar.dependencies>
