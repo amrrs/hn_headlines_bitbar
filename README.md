@@ -8,7 +8,11 @@ This plugin using [Hacker News API](https://github.com/HackerNews/API) helps you
 How to use this Plugin:
 
 * [Download latest BitBar release](https://github.com/matryer/bitbar/releases/latest)
-* Download the .Py plugin code from this repo and put it inside your Bitbar Plugin Folder
-* Make sure it's executable (in Terminal, do chmod +x plugin.py)
+* Download/Copy the *hn_front.120m.py* plugin code from this repo and put it inside your Bitbar Plugin Folder
+* Make sure it's executable (in Terminal, do chmod +x hn_front.120m.py)
 * Then choose Refresh all from the BitBar menus
+
+Screenshot:
+
+![hn_headlines_bitbar](hn_headlines_bitbar.png)
 
