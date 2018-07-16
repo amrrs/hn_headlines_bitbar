@@ -6,9 +6,8 @@
 # <bitbar.desc>Display Top Hacker News Headlines</bitbar.desc>
 # <bitbar.dependencies>python</bitbar.dependencies>
 # <bitbar.version>1.0</bitbar.version>
-#
-# 1 second refresh rate may be overkill. Wording & formatting of the time may
-# also be easily altered below.
+# <bitbar.abouturl>https://github.com/amrrs/hn_headlines_bitbar</bitbar.abouturl>
+
 
 import requests
 print("HN")
