@@ -5,6 +5,7 @@
 # <bitbar.author.github>amrrs</bitbar.author.github>
 # <bitbar.desc>Display Top Hacker News Headlines</bitbar.desc>
 # <bitbar.dependencies>python</bitbar.dependencies>
+# <bitbar.image>https://raw.githubusercontent.com/amrrs/hn_headlines_bitbar/master/hn_headlines_bitbar.png</bitbar.image>
 # <bitbar.version>1.0</bitbar.version>
 # <bitbar.abouturl>https://github.com/amrrs/hn_headlines_bitbar</bitbar.abouturl>
 
