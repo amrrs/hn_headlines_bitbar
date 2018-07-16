@@ -7,7 +7,7 @@
 # <bitbar.dependencies>python</bitbar.dependencies>
 # <bitbar.image>https://raw.githubusercontent.com/amrrs/hn_headlines_bitbar/master/hn_headlines_bitbar.png</bitbar.image>
 # <bitbar.version>1.0</bitbar.version>
-# <bitbar.abouturl>https://github.com/amrrs/hn_headlines_bitbar</bitbar.abouturl>
+# <bitbar.abouturl>https://github.com/amrrs/hn_headlines_bitbar/blob/master/hn_front.120m.py</bitbar.abouturl>
 
 
 import requests
